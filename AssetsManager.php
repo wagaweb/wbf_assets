@@ -30,6 +30,8 @@ class AssetsManager {
 
 	/**
 	 * Adds a single asset
+	 *
+	 * @param $name
 	 * @param array $args
 	 */
 	public function add_asset($name,$args){
